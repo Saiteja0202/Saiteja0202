@@ -1,5 +1,5 @@
 # 👨‍💻 Saiteja | Java Full Stack Developer
-
+# 
 Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** with expertise in **Java backend development** and **modern frontend technologies**. I create scalable, robust applications with clean architecture and best practices.
 
 ---
@@ -104,7 +104,7 @@ Database schema and design documentation
 ## 🔗 Connect & Explore
 
 - 📧 Open to collaborations and exciting projects
-- 🌐 Check out my [Portfolio](https://github.com/Saiteja0202/portfolio)
+- 🌐 Check out my [Portfolio]([https://github.com/Saiteja0202/portfolio](https://sai-teja-srikakulapu.onrender.com/))
 - 💡 Interested in learning? Visit my [Tech-Details](https://github.com/Saiteja0202/Tech-Details) repository
 
 ---
