@@ -104,7 +104,7 @@ Database schema and design documentation
 ## 🔗 Connect & Explore
 
 - 📧 Open to collaborations and exciting projects
-- 🌐 Check out my [Portfolio]([https://github.com/Saiteja0202/portfolio](https://sai-teja-srikakulapu.onrender.com/))
+- 🌐 Check out my [Portfolio](https://sai-teja-srikakulapu.onrender.com/)
 - 💡 Interested in learning? Visit my [Tech-Details](https://github.com/Saiteja0202/Tech-Details) repository
 
 ---
