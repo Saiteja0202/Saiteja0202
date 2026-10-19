@@ -17,33 +17,48 @@ I'm a results-driven developer with a strong foundation in:
 
 ## 🎯 Featured Projects
 
-Below are some of my most recent and active repositories. Click any project name to explore the code.
+Below are some of my most recent and active repositories. Click any project name to explore the code. Each entry includes a short one-line description pulled from the repository metadata (or a fallback when none is provided).
 
 ### 📱 Full Stack & Web Applications
 
-- [Zytra](https://github.com/Saiteja0202/Zytra) — Full-stack demo (links to backend & frontend below)
-  - Backend: [ZytraBackend](https://github.com/Saiteja0202/ZytraBackend) — Java Spring Boot services
-  - Frontend: [ZytraFrontEnd](https://github.com/Saiteja0202/ZytraFrontEnd) — React UI
+- [Zytra](https://github.com/Saiteja0202/Zytra) — Full-stack demo app (private) — JavaScript
+  - Backend: [ZytraBackend](https://github.com/Saiteja0202/ZytraBackend) — Java Spring Boot services — Java
+  - Frontend: [ZytraFrontEnd](https://github.com/Saiteja0202/ZytraFrontEnd) — React-based UI — JavaScript
 
-- [Smart Leave Management System](https://github.com/Saiteja0202/Smart_Leave_Management_System)
-  - Backend: [Smart_Leave_Management_Backend](https://github.com/Saiteja0202/Smart_Leave_Management_Backend)
-  - Frontend: [Smart_Leave_Management_Frontend](https://github.com/Saiteja0202/Smart_Leave_Management_Frontend)
+- [Smart Leave Management System](https://github.com/Saiteja0202/Smart_Leave_Management_System) — Leave management frontend and integrations — JavaScript
+  - Backend: [Smart_Leave_Management_Backend](https://github.com/Saiteja0202/Smart_Leave_Management_Backend) — Java backend services for leave workflows — Java
+  - Frontend: [Smart_Leave_Management_Frontend](https://github.com/Saiteja0202/Smart_Leave_Management_Frontend) — React frontend dashboard — JavaScript
 
-- [Bank Application](https://github.com/Saiteja0202/BankApplication)
-  - Frontend: [BankApplicationFrontEndReact](https://github.com/Saiteja0202/BankApplicationFrontEndReact)
+- [Bank Application](https://github.com/Saiteja0202/BankApplication) — Java backend API for banking features — Java
+  - Frontend: [BankApplicationFrontEndReact](https://github.com/Saiteja0202/BankApplicationFrontEndReact) — React frontend for banking demo — JavaScript
 
-- [My Portfolio](https://github.com/Saiteja0202/My_Portfolio) — Personal portfolio and website
+- [My_Portfolio](https://github.com/Saiteja0202/My_Portfolio) — Personal portfolio and website showcasing projects — JavaScript
 
-- [Library Management Microservices](https://github.com/Saiteja0202/Library_Management_Microservices) — Production-style microservices for a library platform
-  - Live / alternative: [Library_Management_System_Live](https://github.com/Saiteja0202/Library_Management_System_Live)
-  - Frontend (Angular): [Library_Management_Angular](https://github.com/Saiteja0202/Library_Management_Angular)
+- [Library_Management_Microservices](https://github.com/Saiteja0202/Library_Management_Microservices) — Microservices architecture for a library platform — Java
+  - Live / alternative: [Library_Management_System_Live](https://github.com/Saiteja0202/Library_Management_System_Live) — Live-ready library system — Java
+  - Frontend (Angular): [Library_Management_Angular](https://github.com/Saiteja0202/Library_Management_Angular) — Angular frontend for the library system — TypeScript
 
 ### 🎮 Fun & Practice
 
-- [snake](https://github.com/Saiteja0202/snake) — Classic snake game (JS)
-- [unity_game_01](https://github.com/Saiteja0202/unity_game_01) — Unity / C# game project
-- [spotify](https://github.com/Saiteja0202/spotify) — UI clone practice
-- [jiomart](https://github.com/Saiteja0202/jiomart) — Frontend practice project
+- [snake](https://github.com/Saiteja0202/snake) — Classic Snake game implemented in JavaScript — JavaScript
+- [unity_game_01](https://github.com/Saiteja0202/unity_game_01) — Unity / C# game project — C#
+- [spotify](https://github.com/Saiteja0202/spotify) — UI clone practice (Spotify) — HTML/CSS
+- [jiomart](https://github.com/Saiteja0202/jiomart) — Frontend practice project / e‑commerce UI clone — HTML
+
+---
+
+## 🧾 Additional Repositories (short descriptions)
+
+- [gitPractice](https://github.com/Saiteja0202/gitPractice) — Git practice exercises and demos — Java
+- [GitCollabRepo](https://github.com/Saiteja0202/GitCollabRepo) — Collaboration exercises and sample repo — (no description provided)
+- [library_backend_test](https://github.com/Saiteja0202/library_backend_test) — Backend tests and examples for library system — Java
+- [library_database](https://github.com/Saiteja0202/library_database) — Database schema and docs for library projects — (no description provided)
+- [apps](https://github.com/Saiteja0202/apps) — Mobile / Kotlin apps collection — Kotlin
+- [bb](https://github.com/Saiteja0202/bb) — Small HTML demo/project — HTML
+- [GitHubDemo](https://github.com/Saiteja0202/GitHubDemo) — Small demo repository for GitHub features — C
+- [project1](https://github.com/Saiteja0202/project1) — Simple frontend project — HTML
+- [Spark](https://github.com/Saiteja0202/Spark) — Java project (branch: saiteja-branch) — Java
+- [time](https://github.com/Saiteja0202/time) — Tiny time display demo — HTML
 
 ---
 
