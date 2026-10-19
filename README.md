@@ -1,6 +1,6 @@
 # 👨‍💻 Saiteja | Java Full Stack Developer
 #  Check out my [Portfolio](https://sai-teja-srikakulapu.onrender.com/)
-Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** with expertise in **Java backend development** and **modern frontend technologies**. I create scalable, robust applications with clean architecture and best practices.
+Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** with expertise in **Java backend development** and **modern frontend technologies**. I create scalable, robust applications focused on clean architecture and maintainability.
 
 ---
 
@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** with exp
 
 I'm a results-driven developer with a strong foundation in:
 - **Backend Development**: Java, Spring Boot, Microservices
-- **Frontend Development**: React, JavaScript, HTML/CSS
+- **Frontend Development**: React, JavaScript, HTML/CSS, Angular
 - **Database Design**: SQL, Database Architecture
 - **Full Stack Applications**: End-to-end development from design to deployment
 - **Software Architecture**: Microservices, REST APIs, Clean Code
@@ -17,43 +17,33 @@ I'm a results-driven developer with a strong foundation in:
 
 ## 🎯 Featured Projects
 
-### 📱 **Full Stack Applications**
+Below are some of my most recent and active repositories. Click any project name to explore the code.
 
-#### [Zytra](https://github.com/Saiteja0202/Zytra)
-A comprehensive full-stack project showcasing modern web development practices
-- **Backend**: [ZytraBackend](https://github.com/Saiteja0202/ZytraBackend) - Java Spring Boot microservices
-- **Frontend**: [ZytraFrontEnd](https://github.com/Saiteja0202/ZytraFrontEnd) - React-based responsive UI
-- **Tech Stack**: Java, Spring Boot, React, REST APIs
+### 📱 Full Stack & Web Applications
 
-#### [Smart Leave Management System](https://github.com/Saiteja0202/Smart_Leave_Management_System)
-Enterprise HR solution for leave management
-- **Backend**: [Smart_Leave_Management_Backend](https://github.com/Saiteja0202/Smart_Leave_Management_Backend) - Java backend services
-- **Frontend**: [Smart_Leave_Management_Frontend](https://github.com/Saiteja0202/Smart_Leave_Management_Frontend) - React dashboard
-- **Features**: Role-based access control, Leave tracking, Reporting
+- [Zytra](https://github.com/Saiteja0202/Zytra) — Full-stack demo (links to backend & frontend below)
+  - Backend: [ZytraBackend](https://github.com/Saiteja0202/ZytraBackend) — Java Spring Boot services
+  - Frontend: [ZytraFrontEnd](https://github.com/Saiteja0202/ZytraFrontEnd) — React UI
 
-#### [Bank Application](https://github.com/Saiteja0202/BankApplication)
-Full-featured banking system with React frontend
-- **Backend**: Java backend API
-- **Frontend**: [BankApplicationFrontEndReact](https://github.com/Saiteja0202/BankApplicationFrontEndReact) - React interface
-- **Features**: Account management, Transactions, Security
+- [Smart Leave Management System](https://github.com/Saiteja0202/Smart_Leave_Management_System)
+  - Backend: [Smart_Leave_Management_Backend](https://github.com/Saiteja0202/Smart_Leave_Management_Backend)
+  - Frontend: [Smart_Leave_Management_Frontend](https://github.com/Saiteja0202/Smart_Leave_Management_Frontend)
 
-### 📚 **Library Management Systems**
+- [Bank Application](https://github.com/Saiteja0202/BankApplication)
+  - Frontend: [BankApplicationFrontEndReact](https://github.com/Saiteja0202/BankApplicationFrontEndReact)
 
-#### [Library Management Microservices](https://github.com/Saiteja0202/Library_Management_Microservices)
-Production-grade library system using microservices architecture
-- **Architecture**: Microservices with service-to-service communication
-- **Tech**: Java, Spring Boot, Database
+- [My Portfolio](https://github.com/Saiteja0202/My_Portfolio) — Personal portfolio and website
 
-#### [Library Management System Live](https://github.com/Saiteja0202/Library_Management_System_Live)
-Active library management platform
-- **Backend**: Robust Java API
-- **Features**: Book management, Catalog, User management
+- [Library Management Microservices](https://github.com/Saiteja0202/Library_Management_Microservices) — Production-style microservices for a library platform
+  - Live / alternative: [Library_Management_System_Live](https://github.com/Saiteja0202/Library_Management_System_Live)
+  - Frontend (Angular): [Library_Management_Angular](https://github.com/Saiteja0202/Library_Management_Angular)
 
-#### [Library Backend Test](https://github.com/Saiteja0202/library_backend_test)
-Comprehensive backend testing suite
+### 🎮 Fun & Practice
 
-#### [Library Database](https://github.com/Saiteja0202/library_database)
-Database schema and design documentation
+- [snake](https://github.com/Saiteja0202/snake) — Classic snake game (JS)
+- [unity_game_01](https://github.com/Saiteja0202/unity_game_01) — Unity / C# game project
+- [spotify](https://github.com/Saiteja0202/spotify) — UI clone practice
+- [jiomart](https://github.com/Saiteja0202/jiomart) — Frontend practice project
 
 ---
 
@@ -67,8 +57,7 @@ Database schema and design documentation
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 ### Databases & Tools
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -83,7 +72,7 @@ Database schema and design documentation
 - ✅ **RESTful APIs**: Design and development of scalable APIs
 - ✅ **Database Design**: Relational database modeling and optimization
 - ✅ **Spring Boot Ecosystem**: Spring Data, Spring Security, Spring Cloud
-- ✅ **React Development**: Component-based architecture, State management
+- ✅ **React & Angular**: Component-based architecture, State management
 - ✅ **Clean Code**: SOLID principles, Design patterns, Best practices
 - ✅ **Version Control**: Git workflow management and collaboration
 
@@ -93,17 +82,17 @@ Database schema and design documentation
 
 | Category | Projects |
 |----------|----------|
-| **Full Stack Apps** | Zytra, Smart Leave Management, Bank Application |
-| **Library Systems** | Library Management Microservices, Library Management System Live |
-| **Frontend Projects** | Portfolio, JioMart Clone, Spotify Clone |
-| **Learning & Practice** | GitPractice, GitCollabRepo, Tech-Details |
-| **Games & Extras** | Snake Game, Unity Game 01 |
+| Full Stack Apps | Zytra, Smart_Leave_Management_System, BankApplication, My_Portfolio |
+| Library Systems | Library_Management_Microservices, Library_Management_System_Live, Library_Management_Angular |
+| Frontend & Clones | ZytraFrontEnd, BankApplicationFrontEndReact, Smart_Leave_Management_Frontend, jiomart, spotify |
+| Learning & Practice | gitPractice, GitCollabRepo, library_backend_test, library_database |
+| Games & Extras | snake, unity_game_01, project1 |
 
 ---
 
 ## 🔗 Connect & Explore
 
-- 📧 Open to collaborations and exciting projects
+- 📧 Open to collaborations and exciting projects — feel free to open an issue or reach out via GitHub
 
 ---
 
@@ -136,4 +125,4 @@ I'm always interested in:
 
 ---
 
-*Last Updated: 2026 | Java Full Stack Developer | Passionate about Clean Code & Scalable Architecture*
+*Last Updated: 2026-10-19 | Java Full Stack Developer | Passionate about Clean Code & Scalable Architecture*
